@@ -1,4 +1,4 @@
-# outlook-opinion-mining
+# Twitter Sentiment Analysis Using Machine Learning
 Opinion Mining and Sentiment Analysis
 
 

@@ -16,7 +16,7 @@ Retrieving tweets for a particular topic:
 - Tweets are fetched with the help of Listener function which is interfaced with the Twitter website using access tokens.
  
 Preprocessing the tweets :
-- Here preprocessing refers to tokenization, stop words removal, cleaning, Part Of Speech Tagging, Lemmatizing and stemming, etc. 
+- Here preprocessing refers to stop words removal, cleaning, positive word count, negative word count, bag of words model etc. 
 - In order to perform various symbolic and statistical Natural Language Processing, all these above tasks are performed.
 
 Modeling of Feature Vector:
